@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_SimpleMultiplayerKit\Scripts\GameManager\GameManager.cs">
+    <Files>
+      <File FileName="Assets\_SimpleMultiplayerKit\Scripts\GameManager\GameManager.cs" Line="19" Column="2" />
+      <File FileName="Assets\Scripts\mainMenu.cs" Line="28" Column="2" />
+      <File FileName="Assets\_SimpleMultiplayerKit\Scripts\GameManager\NetworkManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
